@@ -1,6 +1,12 @@
-# Skills for FiveM Converted to RedM for RSG (GOAT) FRAMEWORK
+# Skills for RedM Converted & Redesigned by [DFA-Developments](https://dfadevelopments.tebex.io)
+## For RSG (Goat) Framework
 
-Just a basic Skill UI with some exports to add skills and skillchecks to your resources. Skills are updated when the player logs off and when they are dropped from the server.
+Just a basic Skill UI with some exports to add skills and skill checks to your resources. Skills are updated when the player logs off and when they are dropped from the server.
+
+# Preview
+![Preview](https://i.ibb.co/J7fzXzq/image.png)
+
+# Orignal Release - [QW_SKILLS](https://github.com/qw-scripts/qw_skills) (FiveM)
 
 ## Dependencies
 
@@ -16,7 +22,7 @@ Just a basic Skill UI with some exports to add skills and skillchecks to your re
 - setup the skills you want in the config file
 - use the damn thing
 
-## Preview
+
 
 ## Exports
 
@@ -64,3 +70,8 @@ TriggerEvent('dfa_skills:client:openMenu')
 
 -- Can be used to trigger the skill menu if you don't want to use the command
 ```
+
+### Check Out Our Tebex Store
+Looking for more scripts to enhance your RedM experience? Visit our Tebex store to explore our full collection of scripts!
+
+### 🔗 [Visit Our Tebex Store](https://dfadevelopments.tebex.io)
